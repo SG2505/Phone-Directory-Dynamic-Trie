@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/Raleway-Medium.ttf</file>
+    </qresource>
+</RCC>

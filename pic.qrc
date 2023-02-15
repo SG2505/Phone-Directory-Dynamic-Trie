@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Assets/add-contact.png</file>
+        <file>Assets/contact photo.png</file>
+        <file>Assets/contacts.png</file>
+        <file>Assets/email (1).png</file>
+        <file>Assets/id-card.png</file>
+        <file>Assets/search-3076 (1).png</file>
+        <file>Assets/search-3076.png</file>
+        <file>Assets/user.png</file>
+        <file>Assets/viber.png</file>
+        <file>Assets/wallpaper addscreen.PNG</file>
+    </qresource>
+</RCC>
