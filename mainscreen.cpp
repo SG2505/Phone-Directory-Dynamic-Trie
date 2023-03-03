@@ -301,8 +301,7 @@ void mainscreen::on_Cancel_Button_clicked()
 void mainscreen::on_Delete_Button_clicked()
 {
     ui->Add_Button->setDisabled(false);
-    //el mafood ntl3 hna message box ( are you sure? ) if yes make these commands
-    //momken n5ly el ( are you sure? ) tkon screen so8ayara inresizable w n5ly feha 2 buttons yes or no w nb2a n3mlha hide w show
+    
    QMessageBox::StandardButton reply = QMessageBox::question(this,"Delete Contact","Are you sure you want to delete this contact?",
                                                              QMessageBox::Yes | QMessageBox::No);
 
@@ -342,12 +341,6 @@ void mainscreen::on_Delete_Button_clicked()
 
 
    }
-
-
-    //3ayzeen el delete tb2a mortabeta bel list fakat
-    //or dawr 3la el name ely fel name box 3ndk fel delete fel list widegt w emsa7o
-    // search function remove item widget ezay tet3ml
-    //shof class item widget momken ncreate mno object bya5od str
 
 
 }
