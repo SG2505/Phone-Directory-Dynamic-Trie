@@ -343,40 +343,6 @@ Trie::Node* Trie::getRoot()
 //}
 
 
-
-
-
-
-//destructor 3la el net
-
-
-//Trie::~Trie()
-//{
-//    delete root;
-//}
-
-//Trie::Node::~Node()
-//{
-//	for (auto c : children)
-//		delete c;
-//}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// destructor 3akeem
-
-
 //void Trie::destructor(Node* start)
 //{
 //
